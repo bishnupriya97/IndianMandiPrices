@@ -1,0 +1,9 @@
+This report aims to provide an overview of commodity prices in Indian Mandis (daily street market). 
+The data is sourced in from NABARD (National Bank for Agriculture and Rural Development), India via data.gov.in and is updated twice everyday. 
+This report is refreshed everyday 6.30 PM IST. 
+Please note that all states and districts do not report daily prices everyday, hence modal price (most common price) of the particular commodity 
+is considered in such situations. 
+All prices mentioned in the dashboard are Rs/kg
+
+This is the link to see the dashboard.
+https://app.powerbi.com/view?r=eyJrIjoiNWU0ZmU3NWQtMmQyOS00NjExLTgxMjQtNDAxMzk3Nzk2NmI4IiwidCI6IjQwODkzMTczLWFkZmQtNDFmZC1iNDk5LWI5NjkyYzQyZDIyNiIsImMiOjEwfQ%3D%3D
